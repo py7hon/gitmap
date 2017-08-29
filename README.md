@@ -70,6 +70,16 @@ Hello my name is Rubi, I learned the first programming language since January 20
  
 # Videos & Other Stuff
 
+Other stuff like social media, data, etc
+
+## Data's
+ * [Alodokter.com Database](https://github.com/codenoid/alodokter.com-database) - By Hofesh bot
+ * [Animeindo.video Database](https://github.com/codenoid/animeindo.video-database) - By Hofesh bot
+ * [Ariya.io Database](https://github.com/codenoid/ariya.io-database) - By Hofesh bot
+ * [Webtoons Old DB](https://github.com/codenoid/webtoons.com-database) - By Hofesh bot
+ * [Storial.co Database](https://github.com/codenoid/storial.co-database) - By Hofesh bot, tq pak BY
+ 
+
 ## Videos
  * [Crystal Redis](https://www.youtube.com/watch?v=cSkRdfPA--I) - Example of Redis usage in Crystal
  * [Crystal MongoDB](https://www.youtube.com/watch?v=EXTYDlBdLUA&t=4s) - Example of Mongo.cr Usage in Crystal
