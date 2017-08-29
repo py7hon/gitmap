@@ -88,4 +88,11 @@ Hello my name is Rubi, I learned the first programming language since January 20
 ## Website
  * [Jihantoro.net](http://jihantoro.net) - Jihantoro.sd repo
 
+## Social Media
+ * [Facebook](https://facebook.com/real.jihantoro) - Official
+ * [Twitter](https://twitter.com/codenoid) - Official
+ * [Fans Page](https://www.facebook.com/codingwithrubi/) - Official Fans Page
+ * [Gitter](https://gitter.im/codenoid) - Official
+ 
+
  
